@@ -1,8 +1,8 @@
-##Body and Pose Detection Model
-###Project Overview
+## Body and Pose Detection Model
+### Project Overview
 This project focuses on the development of a robust Body and Pose Detection Model using [mention the specific framework/library/tools you used, e.g., TensorFlow, PyTorch, OpenCV]. The primary objective is to accurately detect human bodies and estimate their poses from images or video streams.
 
-###Features
+### Features
 - Body Detection: Utilizes advanced computer vision techniques to identify and locate human bodies within an image or video.
 - Pose Estimation: Employs [mention the specific pose estimation algorithm or model, e.g., OpenPose, PoseNet] to estimate the key joint positions and infer the overall pose of detected bodies.
 - Real-time Processing: Designed to operate efficiently in real-time scenarios, making it suitable for applications like live video analysis.
